@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "S2UmvFTH+n8=",
+  "dgSpecHash": "I9I8TY8PLcU=",
   "success": true,
   "projectFilePath": "D:\\Project-Personal\\SeaFood\\SeaFoodShopManagement\\Domain\\Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\portable.bouncycastle.1.9.0.nupkg.sha512"
+  ],
   "logs": []
 }
